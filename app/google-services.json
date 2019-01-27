@@ -1,35 +1,35 @@
 {
   "project_info": {
-    "project_number": "352531809002",
-    "firebase_url": "https://instagramclone3-b6678.firebaseio.com",
-    "project_id": "instagramclone3-b6678",
-    "storage_bucket": "instagramclone3-b6678.appspot.com"
+    "project_number": "792903833823",
+    "firebase_url": "https://instagram-cf8bb.firebaseio.com",
+    "project_id": "instagram-cf8bb",
+    "storage_bucket": "instagram-cf8bb.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:352531809002:android:d49c650ed5c2c559",
+        "mobilesdk_app_id": "1:792903833823:android:004f73681f093493",
         "android_client_info": {
-          "package_name": "tabian.com.instagramclone2"
+          "package_name": "hyperion.com.instagramclone2"
         }
       },
       "oauth_client": [
         {
-          "client_id": "352531809002-gi64mu16aovb40gf82b1fi2sen302e9h.apps.googleusercontent.com",
+          "client_id": "792903833823-p9ve23b36e1s1906oi70qkdrgskte3qk.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "tabian.com.instagramclone2",
-            "certificate_hash": "a1282f8c2b490a54cc1d7bdcefea5c630f537950"
+            "package_name": "hyperion.com.instagramclone2",
+            "certificate_hash": "0498ffc02aa7ec67aef1a3c5c0d03e8d73d4a311"
           }
         },
         {
-          "client_id": "352531809002-sm8t77fn6vf3177s6kig01tm0bd46clo.apps.googleusercontent.com",
+          "client_id": "792903833823-gpjth23ikb88co4e68bgra4ejrjucdn7.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCJXKgHH5JH7ytTLDSSJ4IeE3iFl5AV7pw"
+          "current_key": "AIzaSyAfE4ra82Fs5XspylKQZ6dAbn4wA-g-DJg"
         }
       ],
       "services": {
@@ -40,7 +40,7 @@
           "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "352531809002-sm8t77fn6vf3177s6kig01tm0bd46clo.apps.googleusercontent.com",
+              "client_id": "792903833823-gpjth23ikb88co4e68bgra4ejrjucdn7.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
